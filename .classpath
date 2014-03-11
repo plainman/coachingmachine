@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="X:/CM/libs/Java_LJUD/LJUDJava/LJUDJava.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/X:/libs/Java_LJUD/javadoc/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="X:/CM/libs/Java_LJUD/LJUDJava"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="X:/CM/libs/marytts-5.0/lib/marytts-lang-de-5.0.jar"/>
+	<classpathentry kind="lib" path="X:/CM/libs/marytts-5.0/lib/marytts-lang-en-5.0.jar"/>
+	<classpathentry kind="lib" path="X:/CM/libs/marytts-5.0/lib/marytts-server-5.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="X:/CM/libs/marytts-5.0/lib/voice-cmu-slt-hsmm-5.0.jar"/>
+	<classpathentry kind="lib" path="X:/CM/libs/marytts-5.0/lib/voice-bits1-hsmm-5.0-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

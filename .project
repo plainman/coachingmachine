@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CoachingMachine</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>MARYTTS_LOC</name>
+			<value>file:/X:/libs/marytts-5.0/lib</value>
+		</variable>
+	</variableList>
+</projectDescription>
